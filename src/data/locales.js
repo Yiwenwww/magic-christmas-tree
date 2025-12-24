@@ -5,7 +5,7 @@ export const LOCALES = {
         music_play: "播放音乐",
         music_pause: "暂停音乐",
         wish_placeholder: "写下你的愿望...",
-        magic_placeholder: "输入关键词 (如: 猫, 搞钱, 恋爱)...",
+        magic_placeholder: "输入关键词 (如: 猫, 搞钱)...",
         btn_magic: "✨ 魔法生成",
         btn_wish: "🎋许愿",
         btn_save: "📸 保存照片",
